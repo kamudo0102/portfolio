@@ -45,7 +45,7 @@ However, I also worked on other areas of the game, contributing to different sys
 
 ## Vertex Painting
 
-| <div style="text-align: left;"> As per the game artists' request, I developed layers featuring two distinct stylized caustics that can be applied using vertex painting. Additionally, I incorporated several adjustable parameters. You can modify the caustic's size, alter the noise intensity, adjust the movement noise scale, and fine-tune the blending effects. Furthermore, this process resulted in a third layer that maintains the same parameters, but instead of caustics, it presents a lighter water color that creates the illusion of a sandbed beneath the islands. | <img src="../Images/Vertex_Painting.gif" alt="Stylized Foam" width="555"/> |
+| <div style="text-align: left;"> As per the game artists' request, I developed layers featuring two distinct stylized caustics that can be applied using vertex painting. Additionally, I incorporated several adjustable parameters. You can modify the caustic's size, alter the noise intensity, adjust the movement noise scale, and fine-tune the blending effects. Furthermore, this process resulted in a third layer that maintains the same parameters, but instead of caustics, it presents a lighter water color that creates the illusion of a sandbed beneath the islands. | <img src="../Images/Vertex_Painting.gif" alt="Stylized Foam" width="650"/> |
 |:---|---|
 
  <img src="../Images/Foam_test.gif" width="100%" />
